@@ -41,14 +41,14 @@
 }
 
 html {
-  cursor: url("./cat_default.png") 30 35, auto;
+  cursor: url("./cat_default.png") 40 45, auto;
 }
 
 body {
   padding: 10vw 3.333vw;
   padding-bottom: 13.333vw;
   font-family: "Roboto Condensed", Arial;
-  font-weight: 100;
+  font-weight: 400;
   letter-spacing: -0.1vw;
   background-color: var(--background-color);
   color: white;
@@ -71,7 +71,7 @@ body {
 https://developer.mozilla.org/ru/docs/Web/CSS/@media
 */
 .name {
-  font-size: 10.778vw;
+  font-size: 12.778vw;
   line-height: 100%;
 }
 
@@ -148,7 +148,7 @@ a:hover {
   }
 
   .name {
-    font-size: 10vw;
+    font-size: 9vw;
     margin-bottom: 1.667vw;
   }
 
